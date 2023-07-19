@@ -1,1 +1,0 @@
-const say_hi = "Hello, i`m the first file in this project!";
